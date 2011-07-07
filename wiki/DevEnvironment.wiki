@@ -1,0 +1,19 @@
+#summary How to install development environment
+
+You need to have a few tools installed in order to be able to contribute to this project.
+
+= JAVA =
+
+  # JRE
+  # JDK
+
+= ECLIPSE =
+
+= ADT =
+
+= Subclipse =
+
+This is a SVN plugin for Eclipse.
+  # go to http://subclipse.tigris.org
+  # see Download page
+  # see Installation inscruction
