@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, PickMyWineActivity!</string>
+    <string name="app_name">PickMyWine</string>
+    <string name="listcaves">Liste des caves</string>
+    <string name="listetageres">Liste des étagères</string>
+    <string name="previsualisation">Cliquez pour avoir les détails</string>
+</resources>
