@@ -1,0 +1,10 @@
+# Introduction #
+
+**PickMyWine** is an android application project which main purpose is to provide a virtual wine cellar using new 3D and AR technologies offered by android plateform in ordre to increase user experience.
+
+
+# Main features #
+
+  * Create a virtual cellar
+  * Search based application
+  * Be able to find less than 10s the right bottle
